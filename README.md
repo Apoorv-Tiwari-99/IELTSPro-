@@ -1,16 +1,47 @@
-# React + Vite
+# IELTSPro Institute - Homepage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive homepage for a fictional IELTS preparation institute built with React.js and Vite.
 
-Currently, two official plugins are available:
+![IELTSPro Institute](https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- **Modern Design**: Clean, professional layout with gradient hero section
+- **Fully Responsive**: Optimized for both desktop and mobile devices
+- **Interactive Components**: Hover effects, smooth scrolling, and mobile menu
+- **Professional UI**: Tailwind CSS for consistent styling and spacing
+- **Fast Performance**: Built with Vite for optimal loading speeds
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend**: React.js 18
+- **Build Tool**: Vite
+- **Styling**: Tailwind CSS
+- **Icons**: SVG icons and emojis
+- **Font**: Inter (Google Fonts)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📋 Prerequisites
+
+Before running this project, make sure you have the following installed:
+- Node.js (version 14 or higher)
+- npm or yarn
+
+## ⚡ Quick Start
+
+⚡ Quick Start
+1. Clone the repository
+
+git clone <your-repo-url>
+cd ielts-institute
+2. Install dependencies
+
+npm install
+3. Start the development server
+
+npm run dev
+4. Build for production
+
+npm run build
+5. Preview production build
+
+npm run preview
