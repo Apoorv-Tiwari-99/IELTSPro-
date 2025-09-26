@@ -28,19 +28,19 @@ Before running this project, make sure you have the following installed:
 ## ⚡ Quick Start
 
 ⚡ Quick Start
-1. Clone the repository
+1. Clone the repository - 
 
 git clone <your-repo-url>
 cd ielts-institute
 
-2. Install dependencies
+2. Install dependencies - 
 npm install
 
-4. Start the development server
+3. Start the development server -
 npm run dev
 
-4. Build for production
+4. Build for production - 
 npm run build
 
-5. Preview production build
+5. Preview production build - 
 npm run preview
